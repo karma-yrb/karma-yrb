@@ -35,7 +35,7 @@ J'ai travaillé comme :
 En France, jusqu'en 2013 puis au Brésil jusqu'en 2022, basé à Lieusaint près de Melun, mobile sur Paris
 
 ## Formation
-De retour du Brésil j'ai besoin de me réatuliser, notamment au niveau languages de code et méthodes
+De retour du Brésil j'ai besoin de me réactualiser, notamment au niveau languages de code et méthodes
 - Javascript (**React**, **Angular**, **node.js**)
 - Server (**PHP**, **Synfony**)
 - Frameworks (**Bootstrap**)
