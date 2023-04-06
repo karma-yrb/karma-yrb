@@ -59,7 +59,10 @@ Français Portugais Anglais
 
 💻 My workspace
 
-<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"> <img src="https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white"> <img src="https://img.shields.io/badge/AMD%20Ryzen_5_4500-ED1C24?style=for-the-badge&logo=amd&logoColor=white"> <img src="">
+<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"> 
+<img src="https://img.shields.io/badge/NVIDIA-GeForce%20GTX%20660?style=for-the-badge&logo=nvidia&logoColor=white"> 
+<img src="https://img.shields.io/badge/AMD%20Ryzen_5_4500-ED1C24?style=for-the-badge&logo=amd&logoColor=white"> 
+<img src="https://img.shields.io/badge/RAM-16GB-blue">
 
 ## Où me trouver
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/karmadev/) 
