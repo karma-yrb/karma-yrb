@@ -48,7 +48,7 @@ Français Portugais Anglais
 
 ### Techs
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"> 
-<img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"> <img src="">
+<img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"> <img src="https://img.shields.io/badge/PHP-blue?style=for-the-badge&logo=php&logoColor=white">
 
 <!--
 | Langues       | Languages     |
@@ -68,3 +68,6 @@ Français Portugais Anglais
 
 [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/ex_gringo_papa_life/) 
 [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/KarmaCrea)
+
+[<img src="https://img.shields.io/badge/Starcraft_2-000?style=for-the-badge&logo=battle.net&logoColor=148EFF">](https://starcraft2.com/fr-fr/profile/2/1/569434) 
+<img src="https://img.shields.io/badge/Nintendo-E60012?style=for-the-badge&logo=nintendo-switch&logoColor=white">
