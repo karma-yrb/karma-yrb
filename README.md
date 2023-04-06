@@ -42,9 +42,10 @@ De retour du Brésil j'ai besoin de me réactualiser, notamment au niveau langua
 
 Pour cela j'ai commencé une formation au sein de @OClock
 
-## Compétences
-### Langues 
+## Skills
+### Langages 
 Français Portugais Anglais
+
 ### Techs
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"> 
 <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"> <img src="">
@@ -59,10 +60,9 @@ Français Portugais Anglais
 
 💻 My workspace
 
-<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"> <img src="https://img.shields.io/badge/NVIDIA-GeForce%20GTX%20660-green?style=for-the-badge&logo=nvidia"> <img src="https://img.shields.io/badge/RAM-16GB-blue"> 
-<img src="https://img.shields.io/badge/AMD%20Ryzen_5_4500-ED1C24?style=for-the-badge&logo=amd&logoColor=white"> 
+<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"> <img src="https://img.shields.io/badge/-Ryzen_5_4500-9d141c?style=for-the-badge&logo=amd&logoColor=white">  <img src="https://img.shields.io/badge/-GTX%20660-green?style=for-the-badge&logo=nvidia&logoColor=white"> 
 
-## Où me trouver
+## Find me here
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/karmadev/) 
 [<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">](https://github.com/karma-yrb)
 
