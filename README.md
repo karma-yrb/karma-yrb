@@ -59,9 +59,7 @@ Français Portugais Anglais
 
 💻 My workspace
 
-<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">  
-<img src="https://img.shields.io/badge/NVIDIA-GeForce%20GTX%20660-green?style=for-the-badge&logo=nvidia"> 
-<img src="https://img.shields.io/badge/RAM-16GB-blue"> 
+<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"> <img src="https://img.shields.io/badge/NVIDIA-GeForce%20GTX%20660-green?style=for-the-badge&logo=nvidia"> <img src="https://img.shields.io/badge/RAM-16GB-blue"> 
 <img src="https://img.shields.io/badge/AMD%20Ryzen_5_4500-ED1C24?style=for-the-badge&logo=amd&logoColor=white"> 
 
 ## Où me trouver
