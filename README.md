@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 # Présentation
 
-## 🧔 Identity
-| Yannick Roulé | 42 years | :world_map: France - Lieusaint (77) | <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkarma-yrb1212%2Fhit-counter%2FREADME&count_bg=%2379C83D&title_bg=%23555555&icon=go.svg&icon_color=%2300ADD8&title=hits&edge_flat=false"/> |
+## ✨ Identity
+| Yannick Roulé | 42 years | 🌆 France - Lieusaint (77) | <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkarma-yrb1212%2Fhit-counter%2FREADME&count_bg=%2379C83D&title_bg=%23555555&icon=go.svg&icon_color=%2300ADD8&title=hits&edge_flat=false"/> |
 | ------------- | -------- | ------------------------ | ------------------------------------|
 
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=karma-yrb&theme=dark">
@@ -55,25 +55,19 @@ Lived in Brazil from 2013 to 2022, I'm now based in Lieusaint, France, I am mobi
 
 
 ## ⚙️ Skills
-### :left_speech_bubble: Langages 
-Français Português English
+### 💬 Langages 
+| <img src="https://img.shields.io/badge/FRENCH-0050a4?style=for-the-badge">      | <img src="https://img.shields.io/badge/Português-009c3b?style=for-the-badge">     | <img src="https://img.shields.io/badge/ENGLISH-FFFFFF?style=for-the-badge&color=C8102E"> |
+| ------------- |-------------|-------------|
+| ⭐⭐⭐⭐⭐ |⭐⭐⭐⭐|⭐⭐⭐|
 
 ### 🤖 Techs
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"> 
 <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"> <img src="https://img.shields.io/badge/PHP-blue?style=for-the-badge&logo=php&logoColor=white">
 
-<!--
-| Langues       | Languages     |
-| ------------- |:-------------:|
-| Français      | HTML          |
-| Portugais     | CSS           |
-| Anglais       | Javascript    |
--->
-
 ## 💻 Workspace
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"> <img src="https://img.shields.io/badge/-Ryzen_5_4500-9d141c?style=for-the-badge&logo=amd&logoColor=white">  <img src="https://img.shields.io/badge/-GTX%20660-green?style=for-the-badge&logo=nvidia&logoColor=white"> 
 
-## 👀 Can find me here
+## 🔗 Can find me here
 
 | 📦 Dev       | 📱 Social     | 🎮 Games |
 | ------------- |-------------|-------------|
