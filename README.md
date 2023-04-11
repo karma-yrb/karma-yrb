@@ -18,12 +18,11 @@ Here are some ideas to get you started:
 # Présentation
 
 ## 🧔 Identity
-| Yannick Roulé | 42 years | 🌆 France - Lieusaint (77) |
-| ------------- | -------- | ------------------------ |
+| Yannick Roulé | 42 years | 🌆 France - Lieusaint (77) | <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkarma-yrb1212%2Fhit-counter%2FREADME&count_bg=%2379C83D&title_bg=%23555555&icon=go.svg&icon_color=%2300ADD8&title=hits&edge_flat=false"/> |
+| ------------- | -------- | ------------------------ | ------------------------------------|
 
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=karma-yrb&theme=dark">
 
-<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkarma-yrb1212%2Fhit-counter%2FREADME&count_bg=%2379C83D&title_bg=%23555555&icon=go.svg&icon_color=%2300ADD8&title=hits&edge_flat=false"/>
 
 <!--![](https://komarev.com/ghpvc/?username=karma-yrb&label=Profile+views)-->
 
