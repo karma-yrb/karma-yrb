@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 # Présentation
 
 ## 🧔 Identity
-| Yannick Roulé | 42 years | 🌆 France - Lieusaint (77) | <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkarma-yrb1212%2Fhit-counter%2FREADME&count_bg=%2379C83D&title_bg=%23555555&icon=go.svg&icon_color=%2300ADD8&title=hits&edge_flat=false"/> |
+| Yannick Roulé | 42 years | :world_map: France - Lieusaint (77) | <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkarma-yrb1212%2Fhit-counter%2FREADME&count_bg=%2379C83D&title_bg=%23555555&icon=go.svg&icon_color=%2300ADD8&title=hits&edge_flat=false"/> |
 | ------------- | -------- | ------------------------ | ------------------------------------|
 
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=karma-yrb&theme=dark">
@@ -54,8 +54,8 @@ Lived in Brazil from 2013 to 2022, I'm now based in Lieusaint, France, I am mobi
 </details>
 
 
-## Skills
-### Langages 
+## ⚙️ Skills
+### :left_speech_bubble: Langages 
 Français Português English
 
 ### 🤖 Techs
@@ -73,13 +73,9 @@ Français Português English
 ## 💻 Workspace
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"> <img src="https://img.shields.io/badge/-Ryzen_5_4500-9d141c?style=for-the-badge&logo=amd&logoColor=white">  <img src="https://img.shields.io/badge/-GTX%20660-green?style=for-the-badge&logo=nvidia&logoColor=white"> 
 
-## Can find me here
-#### 📦 Dev 
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/karmadev/) 
-[<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">](https://github.com/karma-yrb)
-#### 📱 Social
-[<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/ex_gringo_papa_life/) 
-[<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/KarmaCrea)
-#### 🎮 Games
-[<img src="https://img.shields.io/badge/Starcraft_2-000?style=for-the-badge&logo=battle.net&logoColor=148EFF">](https://starcraft2.com/fr-fr/profile/2/1/569434) 
-<img src="https://img.shields.io/badge/Nintendo-E60012?style=for-the-badge&logo=nintendo-switch&logoColor=white">
+## 👀 Can find me here
+
+| 📦 Dev       | 📱 Social     | 🎮 Games |
+| ------------- |-------------|-------------|
+| [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/karmadev/)       | [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/ex_gringo_papa_life/)           |[<img src="https://img.shields.io/badge/Starcraft_2-000?style=for-the-badge&logo=battle.net&logoColor=148EFF">](https://starcraft2.com/fr-fr/profile/2/1/569434) 
+| [<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">](https://github.com/karma-yrb)     | [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/KarmaCrea)           | <img src="https://img.shields.io/badge/Nintendo-E60012?style=for-the-badge&logo=nintendo-switch&logoColor=white">
