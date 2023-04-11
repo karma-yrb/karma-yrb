@@ -31,8 +31,8 @@ Here are some ideas to get you started:
 
 
 ## Parcours
-Introduced to code many years ago with *Flash* starting with **ActionScript 1** to get to **ActionScript 3**, I touched on several types of POO coding, **Lingo**, ** Javascript**, **PHP**
-In France, until 2013 then in Brazil until 2022, based in Lieusaint near Melun, mobile in Paris
+Introduced to code many years ago with *Flash* starting with **ActionScript 1** to get to **ActionScript 3**, I touched on several types of POO coding, **Lingo**, **Javascript**, **PHP**
+Lived in Brazil from 2013 to 2022, I'm now based in Lieusaint, France, I am mobile and available to work in Paris or remotly.
 
 <details>
 <summary>📃 Resume</summary>
