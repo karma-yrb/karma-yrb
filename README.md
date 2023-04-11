@@ -1,5 +1,3 @@
-### N'Cha ! 👋
-
 <!--
 **karma-yrb/karma-yrb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Présentation
+# N'Cha ! 👋
 
 ## ✨ Identity
 | Yannick Roulé | 42 years | 🌆 France - Lieusaint (77) | <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkarma-yrb1212%2Fhit-counter%2FREADME&count_bg=%2379C83D&title_bg=%23555555&icon=go.svg&icon_color=%2300ADD8&title=hits&edge_flat=false"/> |
