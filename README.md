@@ -31,28 +31,28 @@ Here are some ideas to get you started:
 
 
 ## Parcours
-Initié au code à l'époque de *Flash* via **ActionScript 3**, en fait en commençant pas l'**AS1**, j'ai touché à plusieurs types de codages, **Lingo**, **Javascript**, **PHP**
-En France, jusqu'en 2013 puis au Brésil jusqu'en 2022, basé à Lieusaint près de Melun, mobile sur Paris
+Introduced to code many years ago with *Flash* starting with **ActionScript 1** to get to **ActionScript 3**, I touched on several types of POO coding, **Lingo**, ** Javascript**, **PHP**
+In France, until 2013 then in Brazil until 2022, based in Lieusaint near Melun, mobile in Paris
 
 <details>
 <summary>📃 Resume</summary>
   
 ### Education
-  Actuellement je suis une formation de spécialisation Développeur Fullstack JS au sein de @OClock
+  Currently I am a Fullstack JS Developer specialization training within @OClock school
   
 ### Experience
   
-  J'ai travaillé comme :
-- Webdesigner
-- Intégrateur
-- Développeur
+ I worked as:
+- Developer, since 2008
+- Integrator for about 4 years
+- Web designer for about 2 years
   
 </details>
 
 
 ## Skills
 ### Langages 
-Français Portugais Anglais
+Français Português English
 
 ### 🤖 Techs
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"> 
@@ -70,7 +70,8 @@ Français Portugais Anglais
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"> <img src="https://img.shields.io/badge/-Ryzen_5_4500-9d141c?style=for-the-badge&logo=amd&logoColor=white">  <img src="https://img.shields.io/badge/-GTX%20660-green?style=for-the-badge&logo=nvidia&logoColor=white"> 
 
 ## Can find me here
-#### 📦 Dev [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/karmadev/) 
+#### 📦 Dev 
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/karmadev/) 
 [<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">](https://github.com/karma-yrb)
 #### 📱 Social
 [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/ex_gringo_papa_life/) 
