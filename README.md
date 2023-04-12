@@ -60,14 +60,18 @@ Lived in Brazil from 2013 to 2022, I'm now based in Lieusaint, France, I am mobi
 
 ### 🤖 Techs I use
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"> 
-<img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"> <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Express&color=000000&logo=Express&logoColor=FFFFFF&label="> <img src="https://img.shields.io/badge/PHP-blue?style=for-the-badge&logo=php&logoColor=white">
+<img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"> <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Express&color=000000&logo=Express&logoColor=FFFFFF&label="> <img src="https://img.shields.io/static/v1?style=for-the-badge&message=.ENV&color=222222&logo=.ENV&logoColor=ECD53F&label="> <img src="https://img.shields.io/badge/PHP-blue?style=for-the-badge&logo=php&logoColor=white">
 
 ## 💻 How I work
-<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"> <img src="https://img.shields.io/badge/-Ryzen_5_4500-9d141c?style=for-the-badge&logo=amd&logoColor=white">  <img src="https://img.shields.io/badge/-GTX%20660-green?style=for-the-badge&logo=nvidia&logoColor=white"> 
+<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"> <img src="https://img.shields.io/badge/-Ryzen_5_4500-9d141c?style=for-the-badge&logo=amd&logoColor=white"> <img src="https://img.shields.io/badge/-GTX%20660-green?style=for-the-badge&logo=nvidia&logoColor=white"> 
+
+## My favorite tools
+<img src="https://img.shields.io/static/v1?style=for-the-badge&message=Google+Chrome&color=4285F4&logo=Google+Chrome&logoColor=FFFFFF&label="> <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Google+Drive&color=4285F4&logo=Google+Drive&logoColor=FFFFFF&label="> 
 
 ## 🔗 Can find me here
 
-| 📦 Dev       | 📱 Social     | 🎮 Games |
-| ------------- |-------------|-------------|
-| [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/karmadev/)       | [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/ex_gringo_papa_life/)           |[<img src="https://img.shields.io/badge/Starcraft_2-000?style=for-the-badge&logo=battle.net&logoColor=148EFF">](https://starcraft2.com/fr-fr/profile/2/1/569434) 
-| [<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">](https://github.com/karma-yrb)     | [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/KarmaCrea)           | <img src="https://img.shields.io/badge/Nintendo-E60012?style=for-the-badge&logo=nintendo-switch&logoColor=white">
+| 📦 Pro       | 📱 Social     | 🎮 Games | 🎮 Music |
+| ------------- |-------------|-------------|-------------|
+| [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/karmadev/)       | [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/ex_gringo_papa_life/)           |[<img src="https://img.shields.io/badge/Starcraft_2-000?style=for-the-badge&logo=battle.net&logoColor=148EFF">](https://starcraft2.com/fr-fr/profile/2/1/569434)|[<img src="https://img.shields.io/static/v1?style=for-the-badge&message=Deezer&color=222222&logo=Deezer&logoColor=FEAA2D&label=">](https://www.deezer.com/fr/profile/540258273)|
+| [<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">](https://github.com/karma-yrb)     | [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/KarmaCrea)           | <img src="https://img.shields.io/badge/Nintendo-E60012?style=for-the-badge&logo=nintendo-switch&logoColor=white">| [<img src="https://img.shields.io/static/v1?style=for-the-badge&message=Spotify&color=1DB954&logo=Spotify&logoColor=FFFFFF&label=">](https://open.spotify.com/user/m5chit7dbb7d8byeq3casv9o1)
+|  ||<img src="https://img.shields.io/static/v1?style=for-the-badge&message=Steam&color=000000&logo=Steam&logoColor=FFFFFF&label=">|
