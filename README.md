@@ -39,6 +39,8 @@ Lived in Brazil from 2013 to 2022, I'm now based in Lieusaint, France, I am mobi
 <details>
 <summary>📃 Resume</summary>
   
+[<img src="https://img.shields.io/badge/ONLINE-0064FD?style=for-the-badge">](https://cvdesignr.com/p/6436699917e3c)
+
 ### Education
   Currently I am a Fullstack JS Developer specialization training within @OClock school
   
@@ -85,4 +87,4 @@ Lived in Brazil from 2013 to 2022, I'm now based in Lieusaint, France, I am mobi
 | ------------- |-------------|-------------|-------------|
 | [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/karmadev/)       | [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/ex_gringo_papa_life/)           |[<img src="https://img.shields.io/badge/Starcraft_2-000?style=for-the-badge&logo=battle.net&logoColor=148EFF">](https://starcraft2.com/fr-fr/profile/2/1/569434)|[<img src="https://img.shields.io/static/v1?style=for-the-badge&message=Deezer&color=222222&logo=Deezer&logoColor=FEAA2D&label=">](https://www.deezer.com/fr/profile/540258273)|
 | [<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">](https://github.com/karma-yrb)     | [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/KarmaCrea)           | <img src="https://img.shields.io/badge/Nintendo-E60012?style=for-the-badge&logo=nintendo-switch&logoColor=white">| [<img src="https://img.shields.io/static/v1?style=for-the-badge&message=Spotify&color=1DB954&logo=Spotify&logoColor=FFFFFF&label=">](https://open.spotify.com/user/m5chit7dbb7d8byeq3casv9o1)
-| [<img src="https://img.shields.io/badge/Resume-0064FD?style=for-the-badge">](https://cvdesignr.com/p/6436699917e3c)  ||<img src="https://img.shields.io/static/v1?style=for-the-badge&message=Steam&color=000000&logo=Steam&logoColor=FFFFFF&label=">|
+|   ||<img src="https://img.shields.io/static/v1?style=for-the-badge&message=Steam&color=000000&logo=Steam&logoColor=FFFFFF&label=">|
