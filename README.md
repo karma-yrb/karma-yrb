@@ -81,6 +81,12 @@ Lived in Brazil from 2013 to 2022, I'm now based in Lieusaint, France, I am mobi
 <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Google+Chrome&color=4285F4&logo=Google+Chrome&logoColor=FFFFFF&label=">
 <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Google+Drive&color=4285F4&logo=Google+Drive&logoColor=FFFFFF&label="> 
 
+## 🔖 Used to work on
+[<img src="https://img.shields.io/badge/Social_Protection-33557F?style=for-the-badge">](https://socialprotection.org/)
+[<img src="https://img.shields.io/badge/Nabu_Learning-E13E97?style=for-the-badge">](https://www.nabu-learning.com/)
+[<img src="https://img.shields.io/badge/Abralatas-3C881E?style=for-the-badge">](https://www.abralatas.org.br/)
+[<img src="https://img.shields.io/badge/French_Kitch-333333?style=for-the-badge">](https://www.01net.com/tests/french-kitch-la-table-fiche-technique-15851.html)
+
 ## 🔗 Can find me here
 
 | 📦 Pro       | 📱 Social     | 🎮 Games | 🎮 Music |
