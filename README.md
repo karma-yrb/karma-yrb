@@ -16,7 +16,7 @@
 <br>
 
 ## 🚪 <b>How I got there
-```
+
  I started my journey in computing by learning *Photoshop* and *Flash*. From there, I was introduced to coding through *ActionScript*, specifically *ActionScript 3 (AS3)*, which I have been actively learning and using.<br>
 
 Throughout my learning process, I have explored various object-oriented programming (OOP) languages such as *Lingo*, *Javascript*, *PHP*, and have gained experience in different approaches to coding.<br>
@@ -24,7 +24,7 @@ Throughout my learning process, I have explored various object-oriented programm
 Having spent around 30 years in France, particularly in the Paris suburbs, I made a move to Brazil in 2013 and resided there until 2022. Currently, I am back in France (Lieusaint-77).<br>
 
 Currently I am flexible and available for work either in Paris or remotely
-```
+
 <br>
 <details>
 <summary>📃 Resume</summary>
