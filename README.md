@@ -1,44 +1,25 @@
-<!--
-**karma-yrb/karma-yrb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 # N'Cha ! 👋
 
-## ✨ Identity
+## ✨ <b>Identity
 | Yannick Roulé | 42 years | 🌆 France - Lieusaint (77) | <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkarma-yrb1212%2Fhit-counter%2FREADME&count_bg=%2379C83D&title_bg=%23555555&icon=go.svg&icon_color=%2300ADD8&title=hits&edge_flat=false"/> |
 | ------------- | -------- | ------------------------ | ------------------------------------|
 
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=karma-yrb&theme=dark">
 
-
 <!--![](https://komarev.com/ghpvc/?username=karma-yrb&label=Profile+views)-->
-
 
 <!--
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karma-yrb&theme=dark">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=karma-yrb&theme=dark">
 <img src="https://github-profile-trophy.vercel.app/?username=karma-yrb&theme=dark">
 -->
+<br>
 
-
-## Parcours
+## 🚪 <b>How I got there (Journey)
 Introduced to code many years ago with *Flash* starting with **ActionScript 1** to get to **ActionScript 3**, I touched on several types of POO coding, **Lingo**, **Javascript**, **PHP**
 Lived in Brazil from 2013 to 2022, I'm now based in Lieusaint, France, I am mobile and available to work in Paris or remotly.
-
 <details>
 <summary>📃 Resume</summary>
-  
 [<img src="https://img.shields.io/badge/ONLINE-0064FD?style=for-the-badge">](https://cvdesignr.com/p/6436699917e3c)
 
 ### Education
@@ -52,48 +33,64 @@ Lived in Brazil from 2013 to 2022, I'm now based in Lieusaint, France, I am mobi
 - Web designer for about 2 years
   
 </details>
+<br><br>
 
-
-## ⚙️ Skills
-### 💬 Langages 
-| <img src="https://img.shields.io/badge/FRENCH-0050a4?style=for-the-badge">      | <img src="https://img.shields.io/badge/Português-009c3b?style=for-the-badge">     | <img src="https://img.shields.io/badge/ENGLISH-FFFFFF?style=for-the-badge&color=C8102E"> |
+## 💬 <b>Langages I speak
+| &nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/FR-French-333?style=for-the-badge&labelColor=000091&color=FFF&style=flat"> | <img src="https://img.shields.io/badge/BR-Português-333?style=for-the-badge&labelColor=009c3b&color=ffdf00&style=flat">     | <img src="https://img.shields.io/badge/EN-English-333?style=for-the-badge&labelColor=C8102E&color=FFF&style=flat"> |
 | ------------- |-------------|-------------|
-| ⭐⭐⭐⭐⭐ |⭐⭐⭐⭐|⭐⭐⭐|
+| ⭐⭐⭐⭐⭐ |&nbsp;⭐⭐⭐⭐|&nbsp;&nbsp;⭐⭐⭐|
+<br>
 
-### 🤖 Techs I use
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+## ⚙️ <b>My skills
+#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>I use every day
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+<br>
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![NodeJs](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/static/v1?style=for-the-badge&message=Express&color=000000&logo=Express&logoColor=FFFFFF&label=)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)
 ![.ENV](https://img.shields.io/static/v1?style=for-the-badge&message=.ENV&color=222222&logo=.ENV&logoColor=ECD53F&label=)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-blue?style=for-the-badge&logo=php&logoColor=white)
 
-## 💻 How I work
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>I'm learning
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
+#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>I've learned
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![PHP](https://img.shields.io/badge/PHP-blue?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Drupal](https://img.shields.io/badge/Drupal-0678BE?style=for-the-badge&logo=drupal&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
+![20Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
+<br><br>
+
+## 💻 <b>How I work
+### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>Environment
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Ryzen_5_4500](https://img.shields.io/badge/-Ryzen_5_4500-9d141c?style=for-the-badge&logo=amd&logoColor=white)
 ![GTX](https://img.shields.io/badge/-GTX%20660-green?style=for-the-badge&logo=nvidia&logoColor=white)
 
-## My favorite tools
-<img src="https://img.shields.io/static/v1?style=for-the-badge&message=Google+Chrome&color=4285F4&logo=Google+Chrome&logoColor=FFFFFF&label=">
-<img src="https://img.shields.io/static/v1?style=for-the-badge&message=Google+Drive&color=4285F4&logo=Google+Drive&logoColor=FFFFFF&label="> 
+### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Tools
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![Google_chrome](https://img.shields.io/badge/Chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white)
+![Google_Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
+![Google_Sheets](https://img.shields.io/badge/Drive-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)
+<br><br>
 
-## 🔖 Used to work on
-[<img src="https://img.shields.io/badge/Social_Protection-33557F?style=for-the-badge">](https://socialprotection.org/)
+## 🔖 <b>Used to work on
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [<img src="https://img.shields.io/badge/Social_Protection-33557F?style=for-the-badge">](https://socialprotection.org/)
 [<img src="https://img.shields.io/badge/Nabu_Learning-E13E97?style=for-the-badge">](https://www.nabu-learning.com/)
 [<img src="https://img.shields.io/badge/Abralatas-3C881E?style=for-the-badge">](https://www.abralatas.org.br/)
 [<img src="https://img.shields.io/badge/French_Kitch-333333?style=for-the-badge">](https://www.01net.com/tests/french-kitch-la-table-fiche-technique-15851.html)
+<br><br>
 
-## 🔗 Can find me here
-
+## 🔗 <b>Can find me here
 | 📦 Pro       | 📱 Social     | 🎮 Games | 🎮 Music |
 | ------------- |-------------|-------------|-------------|
-| [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/karmadev/)       | [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/ex_gringo_papa_life/)           |[<img src="https://img.shields.io/badge/Starcraft_2-000?style=for-the-badge&logo=battle.net&logoColor=148EFF">](https://starcraft2.com/fr-fr/profile/2/1/569434)|[<img src="https://img.shields.io/static/v1?style=for-the-badge&message=Deezer&color=222222&logo=Deezer&logoColor=FEAA2D&label=">](https://www.deezer.com/fr/profile/540258273)|
-| [<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">](https://github.com/karma-yrb)     | [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/KarmaCrea)           | <img src="https://img.shields.io/badge/Nintendo-E60012?style=for-the-badge&logo=nintendo-switch&logoColor=white">| [<img src="https://img.shields.io/static/v1?style=for-the-badge&message=Spotify&color=1DB954&logo=Spotify&logoColor=FFFFFF&label=">](https://open.spotify.com/user/m5chit7dbb7d8byeq3casv9o1)
-|   ||<img src="https://img.shields.io/static/v1?style=for-the-badge&message=Steam&color=000000&logo=Steam&logoColor=FFFFFF&label=">|
+| [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&style=plastic">](https://www.linkedin.com/in/karmadev/)       | [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&style=plastic">](https://www.instagram.com/ex_gringo_papa_life/)           |[<img src="https://img.shields.io/badge/Starcraft_2-000?style=for-the-badge&logo=battle.net&logoColor=148EFF&style=plastic">](https://starcraft2.com/fr-fr/profile/2/1/569434)|[<img src="https://img.shields.io/static/v1?style=for-the-badge&message=Deezer&color=222222&logo=Deezer&logoColor=FEAA2D&label&style=plastic">](https://www.deezer.com/fr/profile/540258273)|
+| [<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&style=plastic">](https://github.com/karma-yrb)     | [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&style=plastic">](https://twitter.com/KarmaCrea)           | <img src="https://img.shields.io/badge/Nintendo-E60012?style=for-the-badge&logo=nintendo-switch&logoColor=white&style=plastic">| [<img src="https://img.shields.io/static/v1?style=for-the-badge&message=Spotify&color=1DB954&logo=Spotify&logoColor=FFFFFF&label&style=plastic">](https://open.spotify.com/user/m5chit7dbb7d8byeq3casv9o1)
+|   ||<img src="https://img.shields.io/static/v1?style=for-the-badge&message=Steam&color=000000&logo=Steam&logoColor=FFFFFF&label&style=plastic">|
