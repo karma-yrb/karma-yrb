@@ -1,3 +1,18 @@
+<!--
+**karma-yrb/karma-yrb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+
 # N'Cha ! 👋
 
 ## ✨ <b>Identity
@@ -15,25 +30,33 @@
 -->
 <br>
 
-## 🚪 <b>How I got there (Journey)
-Introduced to code many years ago with *Flash* starting with **ActionScript 1** to get to **ActionScript 3**, I touched on several types of POO coding, **Lingo**, **Javascript**, **PHP**
-Lived in Brazil from 2013 to 2022, I'm now based in Lieusaint, France, I am mobile and available to work in Paris or remotly.
+## 🚪 <b>How I got there
+#### I started my journey in computing by learning *Photoshop* and *Flash*. From there, I was introduced to coding through *ActionScript*, specifically *ActionScript 3 (AS3)*, which I have been actively learning and using.<br>
+#### Throughout my learning process, I have explored various object-oriented programming (OOP) languages such as *Lingo*, *Javascript*, *PHP*, and have gained experience in different approaches to coding.<br>
+#### Having spent around 30 years in France, particularly in the Paris suburbs, I made a move to Brazil in 2013 and resided there until 2022. Currently, I am back in France (Lieusaint-77).<br>
+#### Currently I am flexible and available for work either in Paris or remotely
+<br>
 <details>
 <summary>📃 Resume</summary>
-[<img src="https://img.shields.io/badge/ONLINE-0064FD?style=for-the-badge">](https://cvdesignr.com/p/6436699917e3c)
 
-### Education
-  Currently I am a Fullstack JS Developer specialization training within @OClock school
-  
-### Experience
-  
- I worked as:
-- Developer, since 2008
-- Integrator for about 4 years
-- Web designer for about 2 years
-  
+### <b>Education
+>2023 - Currently I am a Fullstack JS Developer specialization training within [@OClock](https://oclock.io/formations/developpeur-web-fullstack-javascript) school<br>
+>>Web Developer in 2008<br>
+>>Web Designer in 2002<br>
+>>College degree in 1999
+
+### <b>Experience
+>I worked as:<br>
+>>FrontEnd Developer since 2015<br>
+>>Web Developer since 2008<br>
+>>Flash Developer for about 5 years<br>
+>>Integrator for about 4 years<br>
+>>Web designer for about 2 years<br>
 </details>
-<br><br>
+
+[<img src="https://img.shields.io/badge/Online_full_version-0064FD?style=for-the-badge">](https://cvdesignr.com/p/643673d488177)
+
+<br>
 
 ## 💬 <b>Langages I speak
 | &nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/FR-French-333?style=for-the-badge&labelColor=000091&color=FFF&style=flat"> | <img src="https://img.shields.io/badge/BR-Português-333?style=for-the-badge&labelColor=009c3b&color=ffdf00&style=flat">     | <img src="https://img.shields.io/badge/EN-English-333?style=for-the-badge&labelColor=C8102E&color=FFF&style=flat"> |
