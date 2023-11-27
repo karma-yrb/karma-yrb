@@ -29,7 +29,7 @@ Currently I am flexible and available for work either in Paris or remotely
 <summary>📃 Resume</summary>
 
 ### <b>Education
-2023 - Currently I am a Fullstack JS Developer specialization training within [@OClock](https://oclock.io/formations/developpeur-web-fullstack-javascript) school<br>
+2023 - Fullstack JS Developer specialization within [@OClock](https://oclock.io/formations/developpeur-web-fullstack-javascript) school<br>
 >Web Developer in 2008<br>
 >Web Designer in 2002<br>
 >College degree in 1999
