@@ -43,7 +43,7 @@ I worked as:<br>
 >Web designer for about 2 years<br>
 </details>
 
-[<img src="https://img.shields.io/badge/Online_full_version-0064FD?style=for-the-badge">](https://cvdesignr.com/p/643673d488177)
+[<img src="https://img.shields.io/badge/Online_full_version-0064FD?style=for-the-badge">](https://cvdesignr.com/p/643673d488177){:target="_blank"}
 
 <br>
 
